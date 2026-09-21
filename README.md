@@ -2,6 +2,10 @@
 
 **[👉 點此立即遊玩 (Play Now) 👈](https://pondahai.github.io/queens-cat-edition/)**
 
+<p align="center">
+  <img src="screenshot.png" alt="Queens Cat Edition Preview" width="480">
+</p>
+
 這是一款類似 LinkedIn "Queens" 或 "Star Battle" 的硬核純邏輯解謎遊戲。在柔和的粉彩方格中，玩家必須利用精確的邏輯推導，在 N x N 的網格中為每一隻貓咪找到唯一的專屬領地。
 
 本遊戲保證**100% 動態隨機生成**且**嚴格具有唯一解**，不靠運氣，純靠腦力！
