@@ -449,7 +449,7 @@
                     cell.classList.remove('conflict', 'pop');
                     
                     if (state[r][c] === 1) {
-                        cell.innerHTML = '<span class="text-gray-400 text-sm md:text-lg opacity-50">✕</span>';
+                        cell.innerHTML = '<span class="pop text-gray-800 font-bold text-lg md:text-2xl select-none opacity-75">✕</span>';
                     } else if (state[r][c] === 2) {
                         cell.innerHTML = '<span class="pop drop-shadow-md">🐱</span>';
                         cats.push({r, c, id: regions[r][c]});
